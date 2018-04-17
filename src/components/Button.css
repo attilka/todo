@@ -1,0 +1,14 @@
+.button{
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+.button:hover{
+    background-color: rgb(220, 220, 220);
+    font-size: 0.9rem;
+}
